@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Konfigurasi
-VPS_IP="203.0.113.50"
-VPS_USER="deploy"
+VPS_IP="192.168.1.55"
+VPS_USER="enricho"
 APP_DIR="~/apps/my-cloud-app"
-REPO_URL="https://github.com/username/my-cloud-app.git"
+REPO_URL="https://github.com/mampuu/TUGAS-Hands-on.git"
 
 echo "🚀 Starting deployment to VPS..."
 
