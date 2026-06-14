@@ -30,4 +30,3 @@ REMOTE
 
 echo "🎉 Deploy finished successfully!"
 echo "🌐 Check: http://$VPS_IP"
-EOF
