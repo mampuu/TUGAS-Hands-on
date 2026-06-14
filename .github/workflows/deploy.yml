@@ -1,3 +1,4 @@
+ 'EOF'
 name: Deploy to VPS
 
 on:
@@ -36,3 +37,4 @@ jobs:
           npm install --production
           pm2 reload my-cloud-app --update-env
           echo "Deployment completed at $(date)"
+EOF
